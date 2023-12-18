@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <body>
+        <h1>A new Programmer</h1>
+        <title>just started today</title>
+        <p>Hi am Umar. I recentky just started to learn to code, and so far i've enjoyed my
+            experience so far with codes such as HTML, CSS, i'm stil learning to code with other languages like PYTHON, JAVA for now.
+            <p>I have recently just started a full course of how to start coding for beginners and more advanced class
+                for those with more experience with coding and hope you wil joi my journey into the life of HTML  and so many more programming languages.
+				<br>
+            <a href="http://instagram.com"><button>click here</button>to follow up on my new and wonderful adventures as a new programmer and thnak you as we go
+			through this wonderful journey together, I hope it'll be very interactive and easy to understand as i take you through this wonderful journey. Happy coding
+			and enjoy yourself.
+			</p>
+			<br>
+               <p> Bio
+			  Photo: <img src="My folder/IMG_20231213_173600_575@-1653758375.jpg">
+			  Age: 16
+			  Hobbies: Soccer, Coding and Football
+			  Field of study: Computer Science
+			  Employment Status: Student
+            </p>
+    </body>
+	</head>
+</html>
